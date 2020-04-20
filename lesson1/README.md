@@ -2,7 +2,7 @@
 *** Setting up Lesson1 ***
 
 1. Clone or extract this repository and navigate to its root:
-$ cd kit_course
+$ cd kit_course_php
 
 2. Start Docker container:
 $ docker-compose up -d
