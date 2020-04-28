@@ -1,0 +1,17 @@
+{
+    "name": "kugaudo/phonebook",
+    "authors": [
+        {
+            "name": "Igor Kugaudo",
+            "email": "igor@kugaudo.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": ["src/"]
+        }
+    }
+}
