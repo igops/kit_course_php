@@ -28,11 +28,12 @@ $ php phonebook.php read NAME
 
 Single Responsibility Principle — each class should be responsible for some atomic functionality.
 
-Decoupling — a process when some module is being split to multiple submodules regarding to Single Responsibility Principle.
+Decoupling is a process when some module is split into multiple submodules according to the Single Responsibility Principle.
 
-Delegation Pattern - an approach when we add some responsibility for decision making to a given class, where afterwards another class is being called.
+Delegation Pattern is an approach when we add some responsibility for decision making to a given class, where afterward, another class is called.
 
-Mapping.csv is being used for storing a mapping of user-defined names to filename-safe strings.
+Mapping.csv is used for storing a mapping of user-defined names to filename-safe strings.
+
 
 ```
 
