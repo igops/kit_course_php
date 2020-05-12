@@ -27,11 +27,11 @@ $ php phonebook.php read NAME
 
 *** Some useful notes ***
 
-Service Container is a special class which holds references to the business objects being used across the classes of the application.
+Service Container is a special class that holds references to the business objects that are used across the classes of the application.
 
 Dependency Injection allows us to refer to the business objects held by Service Container.
 
-Lazy initialization allows us to minimize creation of the object instances:
+Lazy initialization allows us to minimize the creation of the object instances:
 
     /** @var object[] */
     private $services;
