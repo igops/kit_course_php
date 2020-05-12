@@ -27,9 +27,9 @@ $ php phonebook.php read NAME
 *** Some useful notes ***
 
 PHP is a stateless language.
-Application lifecycle starts from the first input and ends after the last output is made.
+The application lifecycle starts from the first input and ends after the last output is made.
 
-How arguments are being passed - by reference or by value?
+How are arguments being passed - by reference or by value?
 
 ```
 ![](img/passing_by_ref.jpg)
