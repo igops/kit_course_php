@@ -1,4 +1,4 @@
-*** Setting up Lesson3 ***
+```*** Setting up Lesson3 ***
 
 1. Clone or extract this repository and navigate to lesson3:
 $ cd kit_course_php/lesson3
@@ -34,4 +34,5 @@ Delegation Pattern - an approach when we add some responsibility for decision ma
 
 Mapping.csv is being used for storing a mapping of user-defined names to filename-safe strings.
 
+```
 
