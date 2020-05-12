@@ -29,7 +29,7 @@ $ php phonebook.php read NAME
 PHP is a stateless language.
 Application lifecycle starts from the first input and ends after the last output is made.
 
-How are arguments being passed - by reference or by value?
+How arguments are being passed - by reference or by value?
 
 ```
 ![](img/passing_by_ref.jpg)
